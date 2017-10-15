@@ -11,6 +11,7 @@ namespace Evento.Core.Domain
         }
 
 
+
         public Guid Id {get; protected set;}
 
     }
