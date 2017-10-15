@@ -177,7 +177,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\arc\\.nuget\\packages\\": {},
+    "C:\\WINDOWS\\system32\\config\\systemprofile\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -186,14 +186,14 @@
       "projectUniqueName": "C:\\Core\\src\\Evento.Core\\Evento.Core.csproj",
       "projectName": "Evento.Core",
       "projectPath": "C:\\Core\\src\\Evento.Core\\Evento.Core.csproj",
-      "packagesPath": "C:\\Users\\arc\\.nuget\\packages\\",
+      "packagesPath": "C:\\WINDOWS\\system32\\config\\systemprofile\\.nuget\\packages\\",
       "outputPath": "C:\\Core\\src\\Evento.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\arc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\WINDOWS\\system32\\config\\systemprofile\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
