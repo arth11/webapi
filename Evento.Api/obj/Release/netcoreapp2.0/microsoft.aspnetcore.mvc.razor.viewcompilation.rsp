@@ -1,0 +1,5 @@
+C:\Core\src\Evento.Api
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=Evento.Api
+--content-root=C:\Core\src\Evento.Api
+--file=
