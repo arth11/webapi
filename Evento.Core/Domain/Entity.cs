@@ -8,8 +8,7 @@ namespace Evento.Core.Domain
         {
             Id = Guid.NewGuid();
             
-            
-        }
+                    }
 
         public Guid Id {get; protected set;}
 
